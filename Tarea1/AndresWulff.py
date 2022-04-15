@@ -18,7 +18,7 @@ def CompareStrings(index1, index2, file):
 
 def Log(operation, file, input):
     if (operation):
-        op = " Agregado {cadena} \n".format(cadena=input)
+        op = " Agregada secuencia"
     else: op = " Resultado comparacion: {result} \n".format(result=input)
     file.write(datetime.now().strftime("%H:%M:%S ") + op)
 
