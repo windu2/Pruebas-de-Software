@@ -15,13 +15,13 @@ secuen_1 = input("Ingrese la 1era secuencia de caracteres a comparar: ")
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 #print(current_time," secuencia 1 ingresada")
-f.write(current_time + " Secuencia 1 ingresada: "+ secuen_1  +"\n")
+f.write(current_time + " Secuencia 1 ingresada"+"\n")
 
 
 secuen_2 = input("Ingrese la 2da secuencia de caracteres a comparar: ")
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
-f.write(current_time + " Secuencia 2 ingresada: "+ secuen_2  +"\n")
+f.write(current_time + " Secuencia 2 ingresada"+"\n")
 
 
 
