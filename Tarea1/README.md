@@ -19,5 +19,5 @@ Comparador de 2 secuencias de carateres.
 - Enviar correo a cualquiera de los colaboradores para pedir acceso al repositorio 
 
 ## Licencia:
-- MIT
-- USM
+- MIT License
+
