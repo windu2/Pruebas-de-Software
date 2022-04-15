@@ -16,7 +16,7 @@ Comparador de 2 secuencias de carateres.
 - Para volver a ocupar repetir las instrucciones anteriores
 
 ## Cómo contribuir: 
-- Enviar correo a cualquiera de los estudiantes para pedir acceso al repositorio 
+- Enviar correo a cualquiera de los colaboradores para pedir acceso al repositorio 
 
 ## Licencia:
 - MIT
